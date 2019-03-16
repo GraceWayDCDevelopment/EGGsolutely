@@ -1,45 +1,69 @@
-## Brief Overview
-Here’s a summary of what you can expect to find in our Privacy Policy, which cover the EGGsolutely App and its services:
+# Privacy Policy
+Effective date: March 16, 2019
 
-## Making your experience personal.
-When you create a EGGsolutely account or use any one of our applications or sites, the information we collect is for the purpose of offering a more personalized experience.
+EGGsolutely ("us", "we", or "our") operates the mobile application (hereinafter referred to as the "Service").
 
-## How we use your data.
-The Privacy Policy clearly outlines the types of data we collect from your activity, and how we use that information to enhance your GraceWay App experience. We do not share your personally identifiable data with any third-party advertisers or ad networks.
+This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy for EGGsolutely is created with the help of the Privacy Policies website.
 
-## Your privacy protected.
-When you see stats we share and celebrate about Bible engagement around the world, we make sure to analyze the data in a way that protects your privacy. When this information is published, it is only in an aggregated form that does not disclose your personally identifiable information. In addition, we implement industry standard security safeguards designed to protect your data.
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, the terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
 
-## It’s your experience.
-Our Privacy Policy makes it clear what rights you have when using the EGGsolutely App, including accessing, sharing, changing and deleting your personal data. We also address how data collection technologies help provide functionality and insight to help you fully engage with the GraceWay App and the Bible.
+## Information Collection And Use
+We collect several different types of information for various purposes to provide and improve our Service to you.
 
-## Privacy Policy
-Last modified on February 1, 2019
+## Types of Data Collected
+- Personal Data
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:
 
-## Accepting the Terms
-Please read this Privacy Policy carefully because it discusses how we will collect, use, share and process your personal information, and by accessing the GraceWay App you agree to this Privacy Policy and its terms and consent to having your data transferred to and processed in the United States.
-We welcome any questions or comments you may have about this Privacy Policy and our privacy practices. If you have any questions or comments, you may contact us at: nbsoftware@icloud.com.
+- Email address
+- First name and last name
+- Phone number
+- Address, State, Province, ZIP/Postal code, City
+- Cookies and Usage Data
+- Usage Data
+When you access the Service with a mobile device, we may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use, unique device identifiers and other diagnostic data ("Usage Data").
 
-## How We Use Your Information
-We do not share your personal data with any third-party advertisers or ad networks for their advertising purposes. We use data that we collect about you or that you provide to us, including any personal information, as follows:
-To provide you with the EGGsolutely App, and any other information, products, or services that you request from us;
-As described in this Privacy Policy;
-To fulfill any other purpose for which you provide it;
-To carry out our obligations and enforce our rights under this Privacy Policy and our Terms of Use;
-In any other way we may describe when you provide the information; and
-For any other purpose with your consent.
-Your ability to access the EGGsolutely App is not contingent on you providing us with your personal information and you may decline to submit personal information to us, however, that may prohibit us from providing you with certain GraceWay App services and/or functionality.
+- Tracking & Cookies Data
+We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
 
-## Facilitating Your Use of The EGGsolutely App
-We use your personal data to authorize your Membership access to the EGGsolutely App if you are a Member. We also use your personal data to provide certain functionality of the GraceWay App depending on the functionality you use and choose and the personal data you agree to provide. We use the data that we have about you to provide, improve, and personalize the GraceWay App, including with the help of automated technologies discussed in this policy and the inferences that we make from information we collect.
+Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.
 
-## Security and Technical Issues
-We use the data (which can include your communications) to investigate, respond to and resolve complaints, legal, security and technical issues concerning the GraceWay App. We use your data and communications if we think it is necessary for security purposes or to investigate possible fraud or violations of law or our Terms of Use or this Privacy Policy and/or attempts to harm others.
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service. You can learn more how to manage cookies in the Browser Cookies Guide.
 
-## Changes to Our Privacy Policy
-We may update our Privacy Policy from time to time to reflect changes in our practices. We will post any changes to our Privacy Policy on this page. If we make material changes to how we treat our users’ personal information, we will provide a notice that the Privacy Policy has been updated. The date the Privacy Policy was last modified is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable email address for you, and for periodically visiting this Privacy Policy to check for any changes.
+## Use of Data
+EGGsolutely uses the collected data for various purposes:
 
-## Support Information
-If you encounter problems in the app, you can contact the developer at nbsoftware@icloud.com
+To provide and maintain the Service
+To notify you about changes to our Service
+To allow you to participate in interactive features of our Service when you choose to do so
+To provide customer care and support
+To provide analysis or valuable information so that we can improve the Service
+To monitor the usage of the Service
+To detect, prevent and address technical issues
+Transfer Of Data
+Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
 
-Note: This privacy policy is derived in part from the YouVersion Privacy Policy.
+If you are located outside United States and choose to provide information to us, please note that we transfer the data, including Personal Data, to United States and process it there.
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+EGGsolutely will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+
+## Security Of Data
+The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+
+## Service Providers
+We may employ third party companies and individuals to facilitate our Service ("Service Providers"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+
+These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+## Changes To This Privacy Policy
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+## Contact Us
+If you have any questions about this Privacy Policy, please contact us:
+
+- By email: nbsoftware@icloud.com
